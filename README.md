@@ -50,3 +50,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 1. git clone https://github.com/ravibarla/wine-app-ts.git
 2. yarn install
 3. yarn start
+
+## Screenshots
+      
+![Alt text](Screenshot from 2024-04-18 11-58-04.png )
+
