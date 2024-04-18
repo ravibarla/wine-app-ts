@@ -44,3 +44,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## `instruction to run this app :-`
+
+1. git clone https://github.com/ravibarla/wine-app-ts.git
+2. yarn install
+3. yarn start
